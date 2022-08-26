@@ -42,3 +42,10 @@ Un échauffement de __5 minutes minimum__ est accordé à chaque équipe avant c
 ## 48.4 – ORDRE DES FRAPPEURS
 
 L’ordre des frappeurs de chaque équipe doit être disponible en 3 copies, 30 minutes avant la partie.
+
+## 48.7 - PLUIE ET CONDITIONS MÉTÉOROLOGIQUES
+
+a) Lorsqu’une partie n’est pas réglementaire, la partie est suspendue par le responsable du tournoi. Elle doit se poursuivre au moment déterminé par le responsable du tournoi.
+
+b) Pour une partie réglementaire, le responsable du tournoi doit rendre une décision quant à l’issue de la partie après un arrêt de 30 minutes. Si la partie ne peut reprendre dans l’heure suivant l’arrêt de cette partie (heure déterminée par le responsable du tournoi), la partie est considérée comme terminée.
+L’équipe en avance au dernier moment où les équipes se sont présenté le même nombre de manches en offensive est déclarée gagnante, sauf si l’équipe qui reçoit prend l’avance lors de son dernier coup de bâton (que sa demi-manche soit terminée ou non).
