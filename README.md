@@ -34,3 +34,11 @@ En __Tournoi à la ronde__, on détermine l’équipe-receveuse (_abri du côté
 En __demi-finale__, les équipes plus hautes au classement, selon le bris d’égalité, seront « receveur ».
 
 Pour __les parties impliquant une médaille__, il y aura un tirage au sort.
+
+## 48.3 - ÉCHAUFFEMENT
+
+Un échauffement de __5 minutes minimum__ est accordé à chaque équipe avant chaque partie (champ intérieur seulement), à un endroit déterminé par le tournoi.
+
+## 48.4 – ORDRE DES FRAPPEURS
+
+L’ordre des frappeurs de chaque équipe doit être disponible en 3 copies, 30 minutes avant la partie.
