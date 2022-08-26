@@ -62,3 +62,28 @@ c) 3e infraction : le membre est suspendu indéfiniment et est transmis à l’i
 
 d) Infraction subséquente : le membre est suspendu pour le reste de la saison et est transmis au comité provincial des règlements.
 
+## 55.4 - TOUCHER
+
+Tout membre qui touche un joueur, un entraîneur, un arbitre, un marqueur officiel ou toute personne en autorité est suspendu indéfiniment et son cas est transmis à l’instance appropriée.
+
+a) 1ère infraction : une suspension minimale de 5 parties est applicable.
+
+b) 2e infraction : une suspension minimale de 7 parties est applicable.
+
+c) 3e infraction : son cas est transmis au comité provincial des règlements.
+
+## 55.5 - CONDUITE PRÉJUDICIABLE
+
+Tout membre qui utilise un langage abusif, crache sur un autre membre, bouscule, tente de blesser intentionnellement ou est impliqué dans une bataille avec un joueur, un entraîneur, un arbitre, un marqueur officiel ou toute personne en autorité est suspendu.
+
+a) 1ère infraction : le membre est suspendu indéfiniment et est transmis à l’instance appropriée. Une suspension minimale de 7 parties est applicable.
+
+b) 2e infraction : pour une seconde infraction au cours de la saison précédente ou de celle en cours, le membre est suspendu indéfiniment et est transmis au comité provincial des règlements.
+
+## 55.6 - ASSAUT
+
+Tout membre qui commet un assaut contre un joueur, un entraîneur, un arbitre, le marqueur officiel ou toute personne en autorité, est suspendu indéfiniment et son cas est transmis au comité provincial des règlements.
+
+## 55.7 - REFUS DE QUITTER LE TERRAIN
+
+Si un membre expulsé refuse de se diriger vers l’extérieur du terrain ou exécute des gestes disgracieux, il est suspendu pour une partie additionnelle.
