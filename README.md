@@ -148,7 +148,7 @@ l’obstruction directe doit être appelée. La balle est morte et le point comp
 être appelée. Le coureur est sauf et la balle est une balle morte retardée.
 4. Sur tout contact jugé malicieux par l’arbitre, le joueur sera automatiquement expulsé en vertu de l’article 55.1 (suspension automatique) qu’il soit déclaré sauf ou retiré. Le contact est considéré malicieux s’il en résulte d’une force excessive intentionnelle et/ou si le contact a été fait dans l’intention de blesser. Le contact malicieux est puni, qu’il soit commis par un joueur offensif ou défensif.
 
-103.13 - DIFFÉRENCE DE POINTAGE
+## 103.13 - DIFFÉRENCE DE POINTAGE
 
 b) Division 15U/16UF à Senior : La règle de « différence de pointage » de dix (10) points s’applique après la 5e manche ou 4 manches et demi si l’équipe locale est en avance.
 
