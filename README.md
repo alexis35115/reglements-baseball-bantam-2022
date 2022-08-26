@@ -320,3 +320,70 @@ lancers. Son registre des lancers est la source officielle aux fins du règlemen
 - __1 journée de repos__ : 46-60 lancers
 - __2 jours de repos__ : 61-75 lancers
 - __3 jours de repos__: 76-90 lancers
+
+## RÈGLEMENTS DU LANCEUR EN TOURNOI ET CHAMPIONNATS
+
+Dans les scénarios suivants, nous faisons référence à David, un lanceur de division 11U.
+
+- __Question__ : Si David affronte un nouveau frappeur au-delà du 35e lancer et termine sa sortie à 38 lancers lors de
+la 1ère partie d’un tournoi, peut‐il lancer lors de la 2e partie la même journée ?
+
+  > **Réponse:** NON – Une fois le seuil minimal (35) dépassé, il a terminé pour la journée et doit avoir une journée complète de repos.
+
+- __Question__ : Est‐ce que David peut lancer dans deux parties consécutives lors de la même journée ?
+  
+  > **Réponse:** OUI, mais seulement s’il ne dépasse pas le seuil de repos (35) lors de la 1ère partie. Le nombre de lancers est cumulatif. Par exemple, si un lanceur effectue 10 lancers lors de la 1ère partie, ce nombre de lancers le suit pour la 2e partie – il commence à 11 avec son 1er lancer lors de la 2e partie.
+
+- __Question__ : Qu’est‐ce qu’une journée de repos ? Si David effectue 38 lancers lors d’une partie vendredi matin, peut-il lancer lors d’une partie samedi après‐midi?
+
+  > **Réponse:** NON – il a besoin d’une journée complète de repos. Il peut lancer de nouveau dimanche.
+
+- __Question__ : J’ai inscrit un David sur mon alignement de départ et j’ai dû le changer avant le début de la partie. Y a‐t‐il une conséquence ?
+  
+  > **Réponse:** Non, tant que l’alignement n’est pas remis à l’arbitre.
+
+- __Question__ : Une feinte irrégulière est appelée par l’arbitre à David. Est-ce considéré comme un lancer?
+
+  > **Réponse:** Selon les règlements du baseball, la feinte irrégulière ne constitue pas un lancer lorsqu’elle est appliquée. Toutefois, si l’appel de la feinte irrégulière est suivi d’un lancer qui traverse la ligne des fausses-balles au cours de la présence d’un frappeur, ce lancer est comptabilisé dans le décompte des lancers.
+
+- __Question__ : David atteint une étape de lancer pendant la présence d’un frappeur. Peut-il finir le frappeur?
+
+  > **Réponse:** Oui, il peut finir le frappeur; cependant il doit être retiré de la position de lanceur avant d’affronter le prochain frappeur. Cela s’applique pour chacune des étapes (35, 50 ou 60 lancers) et pour le nombre maximum de lancers permis par jour (75 lancers). Une étape peut être le cumul de deux parties dans la même journée ou même de deux parties lors de journées consécutives.
+
+- __Question__ : David a un tournoi 11U qui débute vendredi. Comment savoir s’il est éligible à pouvoir lancer au
+tournoi?
+
+  > **Réponse:** Aux divisions 11U et 13U, TOUS les lanceurs sont éligibles lorsque débutera le tournoi, SAUF ceux ayant lancé les deux (2) journées consécutives précédant le tournoi (dans ce cas, mercredi et jeudi) en raison de la règle des 3 journées consécutives.
+
+- __Question__ : David lance 2 manches le mercredi soir dans sa ligue et est au monticule le jeudi au tournoi où il effectue 15 lancers. Peut-il lancer vendredi au tournoi, ou même vendredi dans sa ligue?
+
+  > **Réponse:** Non. La notion de pouvoir lancer 3 journées consécutives existe UNIQUEMENT lors des
+tournois et championnats. On ne peut JAMAIS inclure une partie de saison régulière aux fins de
+l’éligibilité à pouvoir lancer 3 journées consécutives.
+
+- __Question__ : Dans les tournois et championnats, comment David peut-il lancer 3 journées consécutives?
+
+  > **Réponse:** Oui, cette possibilité existe en compétitions provinciales (tournoi et championnats), mais pas lors de la saison régulière. Tenant compte que 35 lancers est la première étape pour une journée de repos à la division 11U, allons-y d’un exemple : David effectue 18 lancers vendredi soir, 6 lancers samedi matin et 6 lancers samedi soir pour un cumulatif de 30 lancers. Est-il éligible à lancer dimanche ? Oui, puisqu’il n’a pas dépassé le cumulatif de 35 lancers au cours des 2 premières journées. Il est alors éligible à lancer jusqu’à un maximum de 45 lancers dans la journée de dimanche (et terminer son frappeur) correspondant au nombre maximum journalier (75 lancers) moins le nombre de lancers cumulé lors des 2 journées précédentes (30 lancers). Par ailleurs, il ne peut lancer lors de 4 journées consécutives, quel que soit le cumulatif de  ancers effectué au cours des journées précédentes.
+
+- __Question__ : David affronte Paul au début de la 3e manche et a effectué jusqu’à maintenant 49 lancers. Que se passe-t-il lorsqu’il atteint 50 ou même 60 lancers ? Peut-il finir le frappeur dans ces situations?
+
+  > **Réponse:** Oui, il peut finir le frappeur. Par exemple, David effectue 5 lancers à Paul qui frappe finalement un coup sûr (pour un total de 54 lancers). Par la suite, l’entraîneur de David le retire du monticule avant qu’il n’affronte un prochain frappeur. Aux fins du registre de lanceur, on indique 50 lancers et David a une seule journée de congé à purger. Dans le même exemple où David affronte Paul avec 49 lancers dans le bras, Paul se met à frapper 13 fausse-balle de suite avant d’être retiré sur un ballon au lanceur. L’entraîneur de David le retire du monticule avant qu’il n’affronte un autre frappeur. Dans les faits, David a lancé 62 balles, mais aux fins du registre, on indique l’étape franchie par David, dans ce cas 50 lancers, et David doit purger une seule journée de repos. Évidemment, dans une situation ou l’autre, si David demeure au monticule et effectue un lancer au frappeur suivant Paul, on indique au registre le nombre réel de lancers effectué par David.
+
+- __Question__ : Que se passe‐t‐il avec le décompte des lancers de David si la partie est suspendue en vertu des
+situations décrites à l’article 7.02 de Baseball Canada?
+
+  > **Réponse:** Les lancers comptent tous. Le lanceur reçoit le crédit de ces lancers et le suivi doit en faire état. Le repos normal s’applique quand même.
+
+- __Question__ : Si une partie suspendue se poursuit au cours de la même journée, est‐ce que David peut continuer de lancer au moment de reprendre la partie?
+
+  > **Réponse:** Absolument. Si David était le lanceur d’office lors de la suspension de la partie, il peut lancer et le décompte des lancers se poursuit. S’il a lancé au cours de cette même partie et a été retiré du monticule avant la suspension, il ne peut revenir lancer au cours de la poursuite de cette partie, sous aucune considération.
+
+- __Question__ : Si une partie suspendue se poursuit le lendemain ou même 3 jours plus tard, comment savoir si
+David est éligible à lancer lors de la poursuite de la partie?
+
+  > **Réponse:** D’abord, le ou les lanceurs ayant été retirés du monticule avant la suspension de la partie ne sont pas éligibles à revenir lancer au cours de la reprise de la partie. Le lanceur qui était au monticule au moment de la suspension est éligible à venir lancer lors de la poursuite de la partie s’il n’est pas en journée de repos. Le décompte des lancers est remis à zéro.
+
+- __Question__ : David lance une partie parfaite / sans coup sûr au moment d’atteindre son maximum. Peut‐il quand
+même continuer à lancer ?
+
+  > **Réponse:** NON, la prévention du bras gouverne le tout.
