@@ -93,3 +93,16 @@ Si un membre expulsé refuse de se diriger vers l’extérieur du terrain ou ex�
 a) toute équipe de classe A, B, Grand Chelem enregistrée à Baseball Québec peut utiliser des joueurs à titre de réserviste provenant d’équipes de classe inférieure ou de division inférieure immédiate de la même région, en conformité avec le tableau à l’article 62.8;
 
 b) Un joueur peut être réserviste pour plus d’une équipe.
+
+## 62.6 - UTILISATION DES RÉSERVISTES
+
+a) Les joueurs doivent se présenter à leur équipe originale s'il y a conflit de calendrier de partie entre les deux équipes, à moins d’entente entre les entraîneurs impliqués. Autrement, ils sont inéligibles.
+
+b) Lanceur, Classe AA : Une équipe mineure de classe AA peut aligner un réserviste et le faire évoluer à la position de lanceur en tout temps, pourvu qu’il soit dans la même division d’âge.
+
+Lanceur, classe A et B : En saison régulière, un joueur de division mineure ne peut évoluer à la position de lanceur lorsqu’il est réserviste. C’est toutefois permis en tournoi et championnat, sauf pour les joueurs de classe A évoluant à titre de réserviste dans la division supérieure de classe B.
+
+c) Aux classes A, B, Grand Chelem ainsi qu’au 11U classe AA, un réserviste doit être inscrit au bas de l’ordre des frappeurs lorsqu’il évolue pour une équipe de division mineure.
+
+d) Une fois la partie débutée, toute contravention aux points b) ou c) entraîne une suspension pour la prochaine partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
+
