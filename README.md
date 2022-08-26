@@ -314,3 +314,9 @@ retirer du monticule, et ce, sur le même frappeur dans la même manche.
 - Dans les tournois et championnats, une personne est assignée à effectuer la comptabilisation des
 lancers. Son registre des lancers est la source officielle aux fins du règlement du lanceur.
 
+## 111 - REGLEMENT DU LANCEUR
+
+- __Aucun repos__ : 1-45 lancers
+- __1 journée de repos__ : 46-60 lancers
+- __2 jours de repos__ : 61-75 lancers
+- __3 jours de repos__: 76-90 lancers
