@@ -151,3 +151,117 @@ l’obstruction directe doit être appelée. La balle est morte et le point comp
 103.13 - DIFFÉRENCE DE POINTAGE
 
 b) Division 15U/16UF à Senior : La règle de « différence de pointage » de dix (10) points s’applique après la 5e manche ou 4 manches et demi si l’équipe locale est en avance.
+
+## 103.14 - ÉQUITÉ DE JEU POUR LES DIVISIONS 11U (CLASSE AA, A ET B), 13U (CLASSE A ET B), 15U/16UF (CLASSE A ET B), 18U/21UF (CLASSE A ET B)
+
+a) __Rôle offensif__ : Tous les joueurs sont inscrits sur l’ordre des frappeurs et chacun de ceux-ci frappe à son tour au bâton.
+
+  - lorsqu’un joueur arrive en cours de partie, il est inscrit au dernier rang de l’ordre des frappeurs. En tournoi et championnat, il n’est pas permis d’ajouter un joueur en cours de partie. Une exception à cette règle est permise dans le cas de la poursuite d’une partie suspendue;
+
+    > **Note :** En tournoi et championnat, on peut inscrire un joueur sur l’ordre des frappeurs même s’il n’est pas encore présent à la partie. Au moment du tour au bâton dudit joueur, deux options sont possibles :
+    - Option 1 : Rayer définitivement le joueur de la partie;
+    - Option 2 : Prendre le retrait à chaque occasion où le frappeur est absent.
+
+  - lorsqu’un joueur quitte en cours de partie, il est retiré du rang du rôle offensif. Aucun retrait « automatique » n’est comptabilisé;
+  - si un joueur ne peut compléter sa présence au bâton, le frappeur suivant dans le rang le remplace avec le même compte. Le joueur remplacé peut revenir au jeu au cours de la partie;
+  - si un coureur ne peut compléter sa présence sur les buts, il est remplacé par le dernier retrait. Le joueur remplacé peut revenir au jeu au cours de la partie.
+  
+    > **Note :** Lorsque le dernier retrait ne peut être déterminé, le joueur précédant dans l’ordre des frappeurs n’étant pas sur les buts devient le coureur de remplacement.
+    > **Note :** Si un joueur « saute » son tour au bâton, mais demeure dans la partie, un retrait est comptabilisé.
+    > **Note :** Lorsqu’une expulsion survient, faisant en sorte que le nombre minimum de joueurs requis en défensive n’est plus atteint, on ne peut avoir recours à un joueur non inscrit sur l’ordre des frappeurs.
+
+  Une demi-manche offensive se termine lorsque 3 retraits ont été inscrits ou que 5 points ont été marqués par l’équipe en offensive. Au 11U classe B, le nombre limite de points est de 3 par manches. S’il y a un circuit à l’extérieur des limites du terrain (au-delà des clôtures) l’équipe sera créditée de tous ses points.
+
+  __Manche ouverte__ :
+
+  > **Note :** Cette règle est applicable en saison régulière seulement.
+
+  Lors d’une manche ouverte, l’équipe visiteuse peut prendre un maximum de 10 points d’avance, une fois cette limite atteinte, la demi-manche offensive de l’équipe visiteuse prend fin. Dans un tel cas lors de son retour en offensive, l’équipe receveuse sera limitée à une partie nulle. Les paramètres de cette règle ne peuvent être dépassés même lors d’un coup de circuit à l’extérieur des limites du terrain (au-delà des clôtures).
+
+  > **Note :** Partie 15U/16UF. L’équipe visiteuse mène 13-1 après 4 manches complètes de jeu. La 5e manche est déclarée ouverte par l’officiel. Puisque l’équipe visiteuse a déjà une avance de 10 points, elle ne peut faire davantage de points car l’écart est déjà atteint. L’équipe visiteuse doit sauter son tour au bâton et l’équipe receveuse sera limitée à tenter de faire une partie nulle.
+
+b) __Rôle défensif__ :
+
+Les substituts, qui prennent place au banc pour la première manche, se joignent à la partie sur une base rotative à compter de la 2e manche. Un joueur ne peut retourner sur le banc avant que tous les autres joueurs ne passent une manche complète sur le banc. Une exception est accordée au lanceur actuellement au monticule.
+
+c) __Atteindre le but suivant__ :
+
+Lorsqu’une équipe détient une avance de 5 points ou plus, le coureur de cette équipe peut atteindre le but
+suivant seulement si la balle est frappée ou s’il est forcé d’avancer.
+
+  > **Note :** L’application d’une règle de jeu (BCan) peut «forcer» l’avance des coureurs. Ex: Balle hors limite.
+  
+  - i) __Sans avance sur les buts__ : Si un coureur atteint le but suivant, la balle est morte et il est retourné à son but.
+  - ii) __Avec avance sur les buts__ : Si un coureur atteint le but suivant, la balle est morte et il est retiré. Si plus d’un coureur est fautif, la balle est morte, on retire uniquement celui le plus près d’atteindre le marbre et les autres coureurs
+retournent à leurs buts.
+
+  > **Note :** Si dans la même séquence de jeu un 5e et 6e point est marqué sans qu’une balle n’ait été frappée, on doit accorder le 5e point et retourner le 6e point sur le but au moment du lancer. Le 6e point ne doit pas être comptabilisé ni constituer un retrait.
+
+d) __Retour au jeu__ :
+
+Le retour au jeu est permis, c’est-à-dire que tout joueur peut être remplacé dans son rôle défensif et revenir en tout temps à une quelconque position, sauf à la position de lanceur si celui-ci a déjà lancé.
+
+## 103.21 - VISITE AUX ARBITRES – CLASSE A, B, GRAND CHELEM
+
+Aucun entraîneur ou joueur ne peut rendre visite aux arbitres, sauf dans le cas d’un dépôt de protêt ou d’une substitution. Autrement, il est expulsé de la partie en vertu de l’article 55.1 – Suspension automatique.
+
+## 103.23 - RÈGLE DES 60 SECONDES
+
+Toutes les équipes de classe AA, A et B de divisions 11U à 18U/21UF doivent effectuer leurs changements défensifs/offensifs et offensifs/défensifs dans un délai de 60 secondes.
+
+À chaque demi-manche, à compter du dernier retrait, l’arbitre des buts verra à chronométrer une période de 60 secondes. Lorsque ce délai sera écoulé, l’officiel du marbre appellera au lanceur un « dernier lancer », peu importe le nombre de lancers effectués.
+
+> **Note :** Si le receveur de la prochaine manche défensive est sur les buts lorsque la manche offensive se termine, l’arbitre peut, à son jugement, accorder un délai additionnel.
+
+Les arbitres doivent faire en sorte de restreindre les attroupements au monticule suite à ce dernier lancer,
+incluant celle du receveur au lanceur.
+
+Nonobstant l’article 5.07b de BCan, un lanceur aura droit à cinq (5) lancers de réchauffement, sans égard à une
+limite de temps, strictement lors des 2 situations suivantes:
+
+  - au début de chaque demi-manche de la première manche;
+
+  - lors d’une substitution de lanceur alors que la demi-manche est déjà en cours.
+
+## 103.24 - JOUEURS ATTEINTS À LA TÊTE
+
+> **Note :** Les arbitres sont les seuls juges d’une balle qui atteint le frappeur à la tête, ou toute partie du corps audessus des épaules.
+
+Procédure au 11U classe AA, ainsi qu’au 9U à 18U classe A, B et GC :
+
+i) __Frappeur__ : Lorsqu’un frappeur se fait atteindre par un lancer provenant du lanceur, l’officiel peut lui octroyer le 1er but. Par
+contre, si ce lancer (peu importe la vélocité) atteint directement le frappeur sur la tête ou dévie sur celle-ci, il a
+droit au 1er but, mais doit obligatoirement être remplacé par le dernier retrait. (En conformité avec le 103.14a
+(iv) et 105.4.1 (iv)).
+
+> **Note :** Lorsque le dernier retrait ne peut être déterminé, le joueur précédant dans l’ordre des frappeurs n’étant pas sur les buts devient le coureur de remplacement.
+
+Lorsque la demi-manche offensive se termine, le joueur atteint peut retourner en défensive s’il est apte à le
+faire, sinon être remplacé, momentanément, par un autre joueur. Dans cette dernière éventualité, il peut rester
+au banc, en récupération, en dépit de l’article 103.14b et 105.3.4. Ceci implique qu’il peut être inactif pendant
+plus d’une manche à moins qu’il doive se présenter au bâton. En effet, à son prochain tour au bâton, le
+frappeur atteint doit se présenter au marbre. S’il n’est pas en mesure de le faire, deux options sont possibles :
+
+  - Option 1 : « Sortir » définitivement ce joueur de la partie. Ceci implique qu’il ne peut plus, sans exception,
+prendre part à la partie. Dans ce cas, la règle de l’équité de jeu 103.14a (ii) et 105.4.1 (ii) s’applique (lorsqu’un
+joueur quitte en cours de partie, il est retiré de l’ordre des frappeurs. Aucun retrait « automatique » n’est
+comptabilisé);
+  - Option 2 : Le laisser dans la partie et lui faire « sauter » son tour au bâton. Dans ce cas, l’article 103.14a (iv) et
+105.4.1 (iv) note 1 s’applique (si un joueur « saute » son tour au bâton, mais demeure dans la partie, un retrait
+est comptabilisé).
+
+  > **Note 3** : Les deux options s’appliquent aussi si le tour au bâton s’étire et fait en sorte que le frappeur atteint doit revenir au bâton au cours de la même demi-manche. Si une balle frappe d’abord le bâton et dévie ensuite à la tête du frappeur, ce dernier doit être remplacé par le prochain frappeur avec le même compte.
+
+ii) __COUREUR__ :
+Si un coureur est atteint à la tête par une balle, il doit obligatoirement être retiré du jeu afin d’être remplacé par
+le dernier retrait pour le reste de la demi-manche offensive.
+Note 4 : Lorsque le dernier retrait ne peut être déterminé, le joueur précédant dans l’ordre des frappeurs n’étant pas sur les buts devient le coureur de remplacement.
+
+iii) __JOUEUR DÉFENSIF__ :
+Si un joueur défensif (autre que le receveur portant son masque) est atteint à la tête par une balle, il doit obligatoirement être retiré du jeu afin d’être remplacé par un autre joueur sur le banc pour le reste de la demimanche défensive.
+
+Si un lanceur est retiré de sa position, il peut revenir au monticule à tout moment au cours de la partie, pourvu qu’il soit éligible à lancer. Le calcul des manches lancées se fait sur le principe « Une balle lancée dans une manche compte pour une manche lancée ». En tournoi/championnat, le décompte des lancers se poursuit.
+
+> **Note :** Si un joueur défensif est atteint à la tête et que son retrait fait en sorte que le minimum de joueur en défensive n’est plus atteint, la partie doit se poursuivre sans conséquence.
+
+S’il doit se présenter au bâton lors de la prochaine demi-manche offensive, deux options sont possibles, selon les mêmes modalités (option 1 ou 2) que le frappeur atteint.
