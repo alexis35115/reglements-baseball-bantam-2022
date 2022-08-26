@@ -138,3 +138,14 @@ peut le montrer clairement, il sera considéré comme illégal. Un frappeur est 
 
 > **Note :** Un réserviste évoluant dans une division et/ou classe supérieure doit se conformer à la règle du bâton
 où il est réserviste.
+
+## 103.10 - CONTACT
+
+1. Les coureurs doivent glisser ou tenter d’éviter de faire contact avec le joueur défensif. Il incombe à l’arbitre de déterminer si le contact avait pu être évité ou non.
+2. Si un coureur ne tente pas d’éviter un joueur défensif en possession de la balle en se rendant à un but ou qu’il tente de lui faire échapper la balle, il sera déclaré retiré (même si le joueur de champ a perdu possession de la balle) à moins qu’il n’ait marqué un point avant de commettre l’infraction. La balle est morte et tous les autres coureurs doivent retourner au dernier but occupé de façon réglementaire au moment du contact. Si au jugement de l’arbitre, un joueur défensif en possession de la balle bloque le marbre et qu’un coureur aurait marqué avant d’être touché par le joueur défensif bloquant le marbre,
+l’obstruction directe doit être appelée. La balle est morte et le point compte.
+3. S’il y a un contact sur un joueur défensif n’ayant pas possession de la balle, une obstruction indirecte doit
+être appelée. Le coureur est sauf et la balle est une balle morte retardée.
+4. Sur tout contact jugé malicieux par l’arbitre, le joueur sera automatiquement expulsé en vertu de l’article
+55.1 (suspension automatique) qu’il soit déclaré sauf ou retiré. Le contact est considéré malicieux s’il en
+résulte d’une force excessive intentionnelle et/ou si le contact a été fait dans l’intention
