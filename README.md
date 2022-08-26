@@ -265,3 +265,52 @@ Si un lanceur est retiré de sa position, il peut revenir au monticule à tout m
 > **Note :** Si un joueur défensif est atteint à la tête et que son retrait fait en sorte que le minimum de joueur en défensive n’est plus atteint, la partie doit se poursuivre sans conséquence.
 
 S’il doit se présenter au bâton lors de la prochaine demi-manche offensive, deux options sont possibles, selon les mêmes modalités (option 1 ou 2) que le frappeur atteint.
+
+## 108.1 - DURÉE DES PARTIES
+
+a) Toutes les parties sont de 7 manches à finir si le temps et les conditions météorologiques le permettent.
+Cependant, 4 manches et demi (4½) constituent une partie réglementaire si l'équipe qui reçoit a plus de
+points que l'équipe qui visite.
+
+b) À partir de l’heure prévue du début de partie, une équipe a 15 minutes pour aligner le nombre de joueurs
+requis en offensive ou en défensive, autrement la partie est perdue par forfait.
+
+## 108.2 - LANCEUR
+
+a) __VISITES__ :
+
+Un entraîneur qui rend visite à un lanceur pour la 2e fois dans la même manche doit changer ce lanceur, lequel peut jouer à une autre position.
+
+b) __QUITTER LE MONTICULE__ :
+
+Un lanceur qui quitte le monticule pour évoluer à une autre position ne peut revenir dans cette partie à titre de lanceur.
+
+c) __BUTS SUR BALLE INTENTIONNELS__ :
+
+Un entraîneur peut indiquer à l’arbitre son intention d’accorder un but sur balle intentionnel au frappeur. La balle est morte, le frappeur se dirige automatiquement au premier but, les coureurs avancent si forcés. Les balles automatiques d’un but sur balle intentionnel ne comptent pas dans le calcul des lancers.
+
+d) __RESTRICTION__ :
+
+- Un joueur ne peut lancer 3 journées consécutives;
+- Une journée de repos signifie une journée complète de calendrier.
+
+f) __NOMBRE DE LANCERS (tournois – championnats)__ :
+
+- Un lanceur qui effectue entre 46 et 60 lancers dans une journée doit avoir une journée de repos;
+- Un lanceur qui effectue entre 61 et 75 lancers dans une journée doit avoir 2 journées de repos;
+- Un lanceur qui effectue entre 76 et 90 lancers dans une journée doit avoir 3 journées de repos;
+- Lorsqu’un lanceur atteint le maximum de lancers permis pour une étape (45, 60 et 75 lancers), il peut terminer sa présence face à ce frappeur sans la pénalité relative aux journées de congé s’il n’affronte pas d’autres frappeurs. Dans cette situation, on indique au registre le nombre de lancers correspondant à l’étape franchie par le lanceur.
+- Lorsqu’un lanceur affronte un nouveau frappeur au-delà du 45e lancer lors d’une partie, il ne peut
+évoluer à titre de lanceur dans une autre partie lors de cette même journée.
+- Lorsqu’un lanceur atteint le maximum de lancers permis pour une journée face à un frappeur (90
+lancers), il peut terminer sa présence et doit être remplacé suite à ce frappeur.
+- Dans les tournois et championnats, un lanceur peut lancer lors d’une 3e journée consécutive s’il n’a
+pas atteint au cours des 2 premières journées le cumulatif de 46 lancers ou plus. Il lui est permis
+d’effectuer jusqu’à un maximum de 90 lancers pour le cumulatif des 3 journées. Il lui est interdit de
+lancer lors de 4 journées consécutives, sans égard au nombre de lancers effectués.
+  - Exemple : 18 lancers le jour 1, 12 lancers le jour 2. Ayant effectué 30 lancers au cumulatif (moins de 46 lancers), il est éligible à lancer une 3e journée consécutive, mais est limité à 60 lancers lors de la 3e journée (90 moins 30 lancers lors des 2 premières journées).
+- Dans les tournois et championnats, un entraîneur peut effectuer une 2e visite au lanceur afin de le
+retirer du monticule, et ce, sur le même frappeur dans la même manche.
+- Dans les tournois et championnats, une personne est assignée à effectuer la comptabilisation des
+lancers. Son registre des lancers est la source officielle aux fins du règlement du lanceur.
+
