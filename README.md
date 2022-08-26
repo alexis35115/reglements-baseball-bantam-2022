@@ -132,3 +132,9 @@ masque combiné doit être porté avec un protège-cou.
 Le bâton doit avoir un baril maximal de deux pouces & trois quarts (2 ¾) et moins 10 ou inférieur avec soit (i) USSSA (facteur 1.15 BPF) ou soit (ii) USA Baseball Model. Le bâton de bois est aussi permis.
 
 > **Note :** Une joueuse n’est pas assujettie à cette limitation.
+
+__Sanction :__ Le bâton doit montrer clairement la marque originale du manufacturier ainsi que sa conformité. Si le bâton ne
+peut le montrer clairement, il sera considéré comme illégal. Un frappeur est retiré pour action irrégulière lorsqu’il se sert ou tente de se servir d’un bâton illégal. Aucun joueur ne peut avancer sur le jeu, mais tout retrait effectué au cours d’un tel jeu est maintenu. Un frappeur est considéré comme ayant utilisé ou tenté d’utiliser un bâton illégal s’il amène un tel bâton dans le rectangle des frappeurs.
+
+> **Note :** Un réserviste évoluant dans une division et/ou classe supérieure doit se conformer à la règle du bâton
+où il est réserviste.
