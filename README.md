@@ -125,3 +125,10 @@ b) Tout joueur de division majeure ou tout entraîneur qui reçoit des tirs de r
 
 c) L’utilisation du masque de receveur combiné approuvé est permise. Pour les divisions mineures, le
 masque combiné doit être porté avec un protège-cou.
+
+## 103.6 - BÂTON AUTORISÉ
+
+À la division 13U classe AA ainsi qu’au 15U/16UF classe A et B :
+Le bâton doit avoir un baril maximal de deux pouces & trois quarts (2 ¾) et moins 10 ou inférieur avec soit (i) USSSA (facteur 1.15 BPF) ou soit (ii) USA Baseball Model. Le bâton de bois est aussi permis.
+
+> **Note :** Une joueuse n’est pas assujettie à cette limitation.
