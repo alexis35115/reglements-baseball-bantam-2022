@@ -49,3 +49,16 @@ a) Lorsqu’une partie n’est pas réglementaire, la partie est suspendue par l
 
 b) Pour une partie réglementaire, le responsable du tournoi doit rendre une décision quant à l’issue de la partie après un arrêt de 30 minutes. Si la partie ne peut reprendre dans l’heure suivant l’arrêt de cette partie (heure déterminée par le responsable du tournoi), la partie est considérée comme terminée.
 L’équipe en avance au dernier moment où les équipes se sont présenté le même nombre de manches en offensive est déclarée gagnante, sauf si l’équipe qui reçoit prend l’avance lors de son dernier coup de bâton (que sa demi-manche soit terminée ou non).
+
+## 55.2 - CONDUITE DANGEREUSE
+
+Tout membre qui est expulsé de la partie pour conduite dangereuse est automatiquement suspendu. Constitue notamment une conduite dangereuse l’action de lancer ou projeter tout objet pouvant causer un danger pour soi ou pour autrui.
+
+a) 1ère infraction : le membre est suspendu pour 3 parties.
+
+b) 2e infraction : le membre est suspendu pour 5 parties.
+
+c) 3e infraction : le membre est suspendu indéfiniment et est transmis à l’instance appropriée.
+
+d) Infraction subséquente : le membre est suspendu pour le reste de la saison et est transmis au comité provincial des règlements.
+
