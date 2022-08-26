@@ -116,3 +116,12 @@ a) Une équipe 9U classe B / Grand Chelem faisant usage de réserviste ne pourra
 
 b) Une fois la partie débutée, toute contravention au point a) entraîne une suspension pour la prochaine
 partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
+
+## 103.2 - PROTECTION DU RECEVEUR
+
+a) Tout joueur qui agit comme receveur doit revêtir un équipement complet lorsqu’il est accroupi. Pour les divisions mineures, le masque doit être porté avec un protège-cou.
+
+b) Tout joueur de division majeure ou tout entraîneur qui reçoit des tirs de réchauffement doit revêtir un casque et un masque lorsqu’il est accroupi.
+
+c) L’utilisation du masque de receveur combiné approuvé est permise. Pour les divisions mineures, le
+masque combiné doit être porté avec un protège-cou.
