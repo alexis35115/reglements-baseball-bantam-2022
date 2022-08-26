@@ -106,3 +106,13 @@ c) Aux classes A, B, Grand Chelem ainsi qu’au 11U classe AA, un réserviste do
 
 d) Une fois la partie débutée, toute contravention aux points b) ou c) entraîne une suspension pour la prochaine partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
 
+62.7 - MAXIMUM
+
+a) Une équipe 9U classe B / Grand Chelem faisant usage de réserviste ne pourra aligner plus de 7 joueurs.
+
+    Une équipe 9U classe A, et 11U à 15U/16UF classe A ou B faisant usage de réservistes ne pourra aligner plus de 10 joueurs. S’il advenait qu’un joueur régulier (non-réserviste) arrive en cours de partie, il peut prendre part à celle-ci, sans exclure les réservistes présents.
+
+> **Note :** La mention « LR »doit être inscrite sur l’ordre des frappeurs suivant le nom du joueur.
+
+b) Une fois la partie débutée, toute contravention au point a) entraîne une suspension pour la prochaine
+partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
