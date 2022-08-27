@@ -98,8 +98,6 @@ b) Un joueur peut être réserviste pour plus d’une équipe.
 
 a) Les joueurs doivent se présenter à leur équipe originale s'il y a conflit de calendrier de partie entre les deux équipes, à moins d’entente entre les entraîneurs impliqués. Autrement, ils sont inéligibles.
 
-b) Lanceur, Classe AA : Une équipe mineure de classe AA peut aligner un réserviste et le faire évoluer à la position de lanceur en tout temps, pourvu qu’il soit dans la même division d’âge.
-
 c) Aux classes A, B, Grand Chelem ainsi qu’au 11U classe AA, un réserviste doit être inscrit au bas de l’ordre des frappeurs lorsqu’il évolue pour une équipe de division mineure.
 
 d) Une fois la partie débutée, toute contravention aux points b) ou c) entraîne une suspension pour la prochaine partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
@@ -108,9 +106,9 @@ d) Une fois la partie débutée, toute contravention aux points b) ou c) entraî
 
 a) Une équipe 9U classe B / Grand Chelem faisant usage de réserviste ne pourra aligner plus de 7 joueurs.
 
-    Une équipe 9U classe A, et 11U à 15U/16UF classe A ou B faisant usage de réservistes ne pourra aligner plus de 10 joueurs. S’il advenait qu’un joueur régulier (non-réserviste) arrive en cours de partie, il peut prendre part à celle-ci, sans exclure les réservistes présents.
+Une équipe 9U classe A, et 11U à 15U/16UF classe A ou B faisant usage de réservistes ne pourra aligner plus de 10 joueurs. S’il advenait qu’un joueur régulier (non-réserviste) arrive en cours de partie, il peut prendre part à celle-ci, sans exclure les réservistes présents.
 
-> **Note :** La mention « LR »doit être inscrite sur l’ordre des frappeurs suivant le nom du joueur.
+> **Note :** La mention « LR » doit être inscrite sur l’ordre des frappeurs suivant le nom du joueur.
 
 b) Une fois la partie débutée, toute contravention au point a) entraîne une suspension pour la prochaine
 partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
@@ -165,18 +163,12 @@ a) __Rôle offensif__ : Tous les joueurs sont inscrits sur l’ordre des frappeu
   - si un coureur ne peut compléter sa présence sur les buts, il est remplacé par le dernier retrait. Le joueur remplacé peut revenir au jeu au cours de la partie.
   
     > **Note :** Lorsque le dernier retrait ne peut être déterminé, le joueur précédant dans l’ordre des frappeurs n’étant pas sur les buts devient le coureur de remplacement.
+
     > **Note :** Si un joueur « saute » son tour au bâton, mais demeure dans la partie, un retrait est comptabilisé.
+
     > **Note :** Lorsqu’une expulsion survient, faisant en sorte que le nombre minimum de joueurs requis en défensive n’est plus atteint, on ne peut avoir recours à un joueur non inscrit sur l’ordre des frappeurs.
 
   Une demi-manche offensive se termine lorsque 3 retraits ont été inscrits ou que 5 points ont été marqués par l’équipe en offensive. Au 11U classe B, le nombre limite de points est de 3 par manches. S’il y a un circuit à l’extérieur des limites du terrain (au-delà des clôtures) l’équipe sera créditée de tous ses points.
-
-  __Manche ouverte__ :
-
-  > **Note :** Cette règle est applicable en saison régulière seulement.
-
-  Lors d’une manche ouverte, l’équipe visiteuse peut prendre un maximum de 10 points d’avance, une fois cette limite atteinte, la demi-manche offensive de l’équipe visiteuse prend fin. Dans un tel cas lors de son retour en offensive, l’équipe receveuse sera limitée à une partie nulle. Les paramètres de cette règle ne peuvent être dépassés même lors d’un coup de circuit à l’extérieur des limites du terrain (au-delà des clôtures).
-
-  > **Note :** Partie 15U/16UF. L’équipe visiteuse mène 13-1 après 4 manches complètes de jeu. La 5e manche est déclarée ouverte par l’officiel. Puisque l’équipe visiteuse a déjà une avance de 10 points, elle ne peut faire davantage de points car l’écart est déjà atteint. L’équipe visiteuse doit sauter son tour au bâton et l’équipe receveuse sera limitée à tenter de faire une partie nulle.
 
 b) __Rôle défensif__ :
 
