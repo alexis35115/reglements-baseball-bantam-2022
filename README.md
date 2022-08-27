@@ -2,6 +2,39 @@
 
 Voici, en rafale, un aide-mémoire des différents règlements :
 
+## 40.3 – ORDRE DES FRAPPEURS
+
+Les responsables des 2 équipes doivent remettre au marqueur officiel de la partie, la feuille d'ordre des
+frappeurs dûment remplie : (numéro d’uniforme, nom et prénom complets et la position des joueurs débutants,
+ainsi que tous les substituts de cette partie) 30 minutes avant l'heure prévue de chacune des parties.
+
+> **Note :** Si deux ou plusieurs joueurs possèdent le même numéro sur leur uniforme, le responsable de l'équipe
+doit inscrire à la suite du nom, sur l’ordre des frappeurs, le nom de l'équipe originale dudit joueur.
+
+## 40.4 - PROTÊT
+
+Tout avis de protêt doit être donné à l'arbitre au moment de l'infraction, avant que le jeu ne reprenne. Tout
+protêt doit être accompagné d'un montant de 100 $ comptant. La partie est suspendue et le comité de protêt se
+réunit immédiatement pour étudier le protêt. La réponse est définitive et sans appel. La partie se continue
+immédiatement après qu’une décision ait été rendue. Si l’équipe a gain de cause, le montant du protêt lui sera
+remis.
+
+## 40.6 - PARTIES
+
+__Divisions 15U/16UF et 18U/21UF__ :
+
+Toute manche qui débute 105 minutes (1h 45) après le début d’une partie est déclarée « dernière
+manche », et cette manche est ouverte. La partie est terminée après cette manche.
+
+b) Partie règlementaire (classe A et B) :
+
+Une partie devient réglementaire lorsqu’elle atteint, à la première échéance, soit les conditions décrites
+aux articles relatifs à la durée des parties de division 9U à 18U/21UF, ou soit lorsqu’une dernière manche
+est annoncée. S’il y a égalité au terme du temps alloué, la partie doit se poursuivre et toutes les manches
+subséquentes sont ouvertes. Le marqueur officialise l’heure du début de partie. Tout arrêt de la partie de
+plus de 10 minutes n’est pas comptabilisé dans la durée de la partie. À partir des demi-finales, les parties
+sont à finir, sans limite de temps.
+
 ## 43.15 - MANCHES SUPPLÉMENTAIRES
 
 > **Note :** Non applicable au 9U classe B / Grand Chelem
