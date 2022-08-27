@@ -100,13 +100,11 @@ a) Les joueurs doivent se présenter à leur équipe originale s'il y a conflit 
 
 b) Lanceur, Classe AA : Une équipe mineure de classe AA peut aligner un réserviste et le faire évoluer à la position de lanceur en tout temps, pourvu qu’il soit dans la même division d’âge.
 
-Lanceur, classe A et B : En saison régulière, un joueur de division mineure ne peut évoluer à la position de lanceur lorsqu’il est réserviste. C’est toutefois permis en tournoi et championnat, sauf pour les joueurs de classe A évoluant à titre de réserviste dans la division supérieure de classe B.
-
 c) Aux classes A, B, Grand Chelem ainsi qu’au 11U classe AA, un réserviste doit être inscrit au bas de l’ordre des frappeurs lorsqu’il évolue pour une équipe de division mineure.
 
 d) Une fois la partie débutée, toute contravention aux points b) ou c) entraîne une suspension pour la prochaine partie à l’entraîneur-chef de l’équipe fautive (ou celui occupant cette fonction lors de la partie).
 
-62.7 - MAXIMUM
+## 62.7 - MAXIMUM
 
 a) Une équipe 9U classe B / Grand Chelem faisant usage de réserviste ne pourra aligner plus de 7 joueurs.
 
@@ -250,7 +248,7 @@ comptabilisé);
 105.4.1 (iv) note 1 s’applique (si un joueur « saute » son tour au bâton, mais demeure dans la partie, un retrait
 est comptabilisé).
 
-  > **Note 3** : Les deux options s’appliquent aussi si le tour au bâton s’étire et fait en sorte que le frappeur atteint doit revenir au bâton au cours de la même demi-manche. Si une balle frappe d’abord le bâton et dévie ensuite à la tête du frappeur, ce dernier doit être remplacé par le prochain frappeur avec le même compte.
+  > **Note :** Les deux options s’appliquent aussi si le tour au bâton s’étire et fait en sorte que le frappeur atteint doit revenir au bâton au cours de la même demi-manche. Si une balle frappe d’abord le bâton et dévie ensuite à la tête du frappeur, ce dernier doit être remplacé par le prochain frappeur avec le même compte.
 
 ii) __COUREUR__ :
 Si un coureur est atteint à la tête par une balle, il doit obligatoirement être retiré du jeu afin d’être remplacé par
